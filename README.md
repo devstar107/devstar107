@@ -20,7 +20,6 @@ var developements = {
 - 👨‍💻 All of my projects are available at
 [https://github.com/devstar107/](https://github.com/devstar107/)
 - 📫 How to reach me, drop an email at **dreambus.dev@gmail.com**
-- 👀 My Portfolio Website: [https://devstar107.github.io/](https://devstar107.github.io/)
 - 👍 Thanks for visiting my profile. Follow me to get all the updates about my repositories and my open source works.
 
 ## 
