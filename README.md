@@ -5,15 +5,15 @@
 ```sh
 var developements = {
     "Web Development" : {
-        "Languages" : [ "HTML" , "CSS", "JavaScript", "TypeScript", "Java", "Go", "Python", "PHP" ] ,
+        "Languages" : [ "HTML" , "CSS", "JavaScript", "TypeScript", "Java", "Python", "PHP" ] ,
         "Frameworks" : [
             "Frontend" : [ "React.js", "Next.js", "Vue.js", "WordPress", "MUI", "Tailwind CSS", "AntD" ] ,
             "Backend" : [ "Node.js", "Express.js", "Fastify", "Nest" ] ,
             "Database" : [ "MongoDB", "PostgreSQL", "MySQL" ] ,
-            "Unit Test" : [ "Jasmine", "Mocha", "Chai", "Jest" ]
+            "Unit Test" : [ "Jasmine", "Mocha", "Cypress", "Jest" ]
         ]
     } ,
-    "Others" : [ "Git", "GitHub", "Docker", "Jira", "Trello", "AWS", "Firebase" ]
+    "Others" : [ "Git", "GitHub", "BitBucket", "Docker", "Jira", "Trello", "AWS", "Firebase" ]
 }
 ```
 
